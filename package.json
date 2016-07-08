@@ -1,0 +1,29 @@
+{
+  "name": "fabric.js_tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial of Fabric.js",
+  "scripts": {
+    "bower": "bower",
+    "postinstall": "bower install",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennybiasiolli/fabric.js_tutorial.git"
+  },
+  "keywords": [
+    "fabric.js",
+    "canvas",
+    "tutorial"
+  ],
+  "author": "Denny Biasiolli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dennybiasiolli/fabric.js_tutorial/issues"
+  },
+  "homepage": "https://github.com/dennybiasiolli/fabric.js_tutorial#readme",
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "lite-server": "^2.2.2"
+  }
+}
